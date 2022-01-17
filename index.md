@@ -1,12 +1,10 @@
-## Home COVID-19 rapid antigen tests approved in the US
-
 Rapid antigen tests (RATs) for COVID-19 have been in [very short supply](https://www.propublica.org/article/heres-why-rapid-covid-tests-are-so-expensive-and-hard-to-find) in the United States.
 
 I have been frustrated that RATs are so expensive in the US, especially given their accuracy. Every time a colleague recommended a test for purchase, the accuracy was significantly lower than these [JoysBio tests](https://web.archive.org/web/20211130131927/https://en.joysbio.com/covid-19-antigen-rapid-test-kit/) I was able to obtain in 2021. However, such tests aren't currently available in the US under an emergency use authorization (EUA) from the FDA.
 
 I wanted to compare the accuracy of the various home [rapid antigen tests available under EUA](https://web.archive.org/web/20220116142233/https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/in-vitro-diagnostics-euas-antigen-diagnostic-tests-sars-cov-2), so I filtered by "Home Test" on the FDA website and pulled the data from each test's Instructions For Use (IFU) sheet.
 
-### EUA home test data
+## EUA home test data
 
 Data fetched on Mon. Jan. 17, 2022. [(Download it as a CSV)](files/RAT_data.csv)
 
