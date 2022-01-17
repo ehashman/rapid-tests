@@ -1,0 +1,13 @@
+Name	Manufacturer	Sensitivity	Low – 95% CI	High – 95% CI	Specificity	Low – 95% CI	High – 95% CI	N	Type
+BinaxNOW COVID-19 Antigen Self-Test	Abbott	84.6	76.8	90.6	98.5	96.6	99.5	460	Nasal swab
+CareStart COVID-19 Antigen Home Test	Access Bio	87	70	95	98	93	99	153	Nasal swab
+Flowflex COVID-19 Antigen Home Test	ACON	93	81	99	100	97	100	172	Nasal swab
+BD Veritor At-Home COVID-19 Test	Becton Dickinson	84.6	70.3	92.8	99.8	99	100	597	Nasal swab
+Celltrion DiaTrust COVID-19 Ag Home-Test	Celltrion	86.7	73.8	93.7	99.8	98.7	100	492	Nasal swab
+Ellume COVID-19 Home Test	Ellume	95	82	99	97	93	99	198	Nasal swab
+iHealth COVID-19 Antigen Rapid Test	iHealth Labs	94.3	81.4	98.4	98.1	93.3	99.5	139	Nasal swab
+SCoV-2 Ag Detect Rapid Self-Test	InBios	85.71	70.62	93.74	100	98.3	100	257	Nasal swab
+InteliSwab COVID-19 Rapid Test	OraSure	84	71	92	98	93	99	146	Nasal swab
+QuickVue At-Home OTC COVID-19 Test	Quidel	83.5	74.9	89.6	99.2	97.2	99.8	350	Nasal swab
+COVID-19 At-Home Test	SD Biosensor	95.3	84.5	98.7	100	95.7	100	128	Nasal swab
+CLINITEST Rapid COVID-19 Antigen Self-Test	Siemens	86.5	79.6	91.3	99.3	95.9	100	268	Nasal swab
