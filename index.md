@@ -10,7 +10,7 @@ I wanted to compare the accuracy of the various home [rapid antigen tests availa
 
 Data fetched on Mon. Jan. 17, 2022. [(Download it as a CSV)](files/RAT_data.csv)
 
-Name | Manufacturer | Sensitivity (PPA) | Low PPA[^*] | High PPA[^*] | Specificity (NPA) | Low NPA[^*] | High NPA[^*] | Total Samples | Type
+Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specificity (NPA) | Low NPA[^1] | High NPA[^1] | Total Samples | Type
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 [BinaxNOW COVID-19 Antigen Self-Test] | Abbott | 84.6 | 76.8 | 90.6 | 98.5 | 96.6 | 99.5 | 460 | Nasal swab
 [CareStart COVID-19 Antigen Home Test] | Access Bio | 87 | 70 | 95 | 98 | 93 | 99 | 153 | Nasal swab
@@ -25,7 +25,7 @@ Name | Manufacturer | Sensitivity (PPA) | Low PPA[^*] | High PPA[^*] | Specifici
 [COVID-19 At-Home Test] | SD Biosensor | 95.3 | 84.5 | 98.7 | 100 | 95.7 | 100 | 128 | Nasal swab
 [CLINITEST Rapid COVID-19 Antigen Self-Test] | Siemens | 86.5 | 79.6 | 91.3 | 99.3 | 95.9 | 100 | 268 | Nasal swab
 
-[^*]: Based on a 95% confidence interval.
+[^1]: Based on a 95% confidence interval.
 
 [BinaxNOW COVID-19 Antigen Self-Test]: files/EUA-abbott-bNOWHome-ifu.pdf
 [CareStart COVID-19 Antigen Home Test]: files/EUA-accessbio-Aghome-ifu.pdf
