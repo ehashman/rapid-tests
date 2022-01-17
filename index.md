@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Home COVID-19 rapid antigen tests approved in the US
 
-You can use the [editor on GitHub](https://github.com/ehashman/fda-eua-rats/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Rapid antigen tests (RATs) for COVID-19 have been in [very short supply](https://www.propublica.org/article/heres-why-rapid-covid-tests-are-so-expensive-and-hard-to-find) in the United States.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have been frustrated that RATs are so expensive in the US, especially given their accuracy. Every time a colleague recommended a test for purchase, the accuracy was significantly lower than these [JoysBio tests](https://web.archive.org/web/20211130131927/https://en.joysbio.com/covid-19-antigen-rapid-test-kit/) I was able to obtain in 2021. However, such tests aren't currently available in the US under an emergency use authorization (EUA) from the FDA.
 
-### Markdown
+I wanted to compare the accuracy of the various home [rapid antigen tests available under EUA](https://web.archive.org/web/20220116142233/https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/in-vitro-diagnostics-euas-antigen-diagnostic-tests-sars-cov-2), so I filtered by "Home Test" on the FDA website and pulled the data from each test's Instructions For Use (IFU) sheet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### EUA home test data
 
-```markdown
-Syntax highlighted code block
+Data fetched on Mon. Jan. 17, 2022. [(Download it as a CSV)](https://github.com/ehashman/fda-eua-rats/files/7884630/RAT_data.csv)
 
-# Header 1
-## Header 2
-### Header 3
+Name | Manufacturer | Sensitivity (PPA) | Low PPA[^*] | High PPA[^*] | Specificity (NPA) | Low NPA[^*] | High NPA[^*] | Total Samples | Type
+-- | -- | -- | -- | -- | -- | -- | -- | -- | --
+BinaxNOW COVID-19 Antigen Self-Test | Abbott | 84.6 | 76.8 | 90.6 | 98.5 | 96.6 | 99.5 | 460 | Nasal swab
+CareStart COVID-19 Antigen Home Test | Access Bio | 87 | 70 | 95 | 98 | 93 | 99 | 153 | Nasal swab
+Flowflex COVID-19 Antigen Home Test | ACON | 93 | 81 | 99 | 100 | 97 | 100 | 172 | Nasal swab
+BD Veritor At-Home COVID-19 Test | Becton Dickinson | 84.6 | 70.3 | 92.8 | 99.8 | 99 | 100 | 597 | Nasal swab
+Celltrion DiaTrust COVID-19 Ag Home-Test | Celltrion | 86.7 | 73.8 | 93.7 | 99.8 | 98.7 | 100 | 492 | Nasal swab
+Ellume COVID-19 Home Test | Ellume | 95 | 82 | 99 | 97 | 93 | 99 | 198 | Nasal swab
+iHealth COVID-19 Antigen Rapid Test | iHealth Labs | 94.3 | 81.4 | 98.4 | 98.1 | 93.3 | 99.5 | 139 | Nasal swab
+SCoV-2 Ag Detect Rapid Self-Test | InBios | 85.71 | 70.62 | 93.74 | 100 | 98.3 | 100 | 257 | Nasal swab
+InteliSwab COVID-19 Rapid Test | OraSure | 84 | 71 | 92 | 98 | 93 | 99 | 146 | Nasal swab
+QuickVue At-Home OTC COVID-19 Test | Quidel | 83.5 | 74.9 | 89.6 | 99.2 | 97.2 | 99.8 | 350 | Nasal swab
+COVID-19 At-Home Test | SD Biosensor | 95.3 | 84.5 | 98.7 | 100 | 95.7 | 100 | 128 | Nasal swab
+CLINITEST Rapid COVID-19 Antigen Self-Test | Siemens | 86.5 | 79.6 | 91.3 | 99.3 | 95.9 | 100 | 268 | Nasal swab
 
-- Bulleted
-- List
+[^*]: Based on a 95% confidence interval.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ehashman/fda-eua-rats/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
