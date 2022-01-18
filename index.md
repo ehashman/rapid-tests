@@ -22,8 +22,10 @@ Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specifici
 [QuickVue At-Home OTC COVID-19 Test] | Quidel | 83.5 | 74.9 | 89.6 | 99.2 | 97.2 | 99.8 | 350 | Nasal swab
 [COVID-19 At-Home Test] | SD Biosensor | 95.3 | 84.5 | 98.7 | 100 | 95.7 | 100 | 128 | Nasal swab
 [CLINITEST Rapid COVID-19 Antigen Self-Test] | Siemens | 86.5 | 79.6 | 91.3 | 99.3 | 95.9 | 100 | 268 | Nasal swab
+[Cue COVID-19 At Home and OTC Test] | Cue | 97.4 | 86.5| 99.5 | 99.1 | 96.9 | 99.8 | 273 | Nasal swab (NAAT[^2])
 
 [^1]: Based on a 95% confidence interval.
+[^2]: Molecular Nucleic Acid Amplification Test.
 
 [BinaxNOW COVID-19 Antigen Self-Test]: files/EUA-abbott-bNOWHome-ifu.pdf
 [CareStart COVID-19 Antigen Home Test]: files/EUA-accessbio-Aghome-ifu.pdf
@@ -37,5 +39,6 @@ Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specifici
 [QuickVue At-Home OTC COVID-19 Test]: files/EUA-QuickVue-OTC-ifu_0.pdf
 [COVID-19 At-Home Test]: files/EUA-SDBio-AtHome-ifu.pdf
 [CLINITEST Rapid COVID-19 Antigen Self-Test]: files/EUA-Siemens-CliniTestAg-ifu.pdf
+[Cue COVID-19 At Home and OTC Test]: files/EUA-CueH-Covid-ifu_0.pdf
 
 
