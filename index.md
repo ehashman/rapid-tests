@@ -17,7 +17,7 @@ Data from [Thu. May 12, 2022](https://web.archive.org/web/20220512201429/https:/
 Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specificity (NPA) | Low NPA[^1] | High NPA[^1] | Total Samples | Type
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 [BinaxNOW COVID-19 Antigen Self-Test] | Abbott | 84.6 | 76.8 | 90.6 | 98.5 | 96.6 | 99.5 | 460 | Nasal swab
-[CareStart COVID-19 Antigen Home Test] | Access Bio | 87 | 70 | 95 | 98 | 93 | 99 | 153 | Nasal swab
+[CareStart COVID-19 Antigen Home Test][^4] | Access Bio | 87 | 70 | 95 | 98 | 93 | 99 | 153 | Nasal swab
 [Flowflex COVID-19 Antigen Home Test] | ACON | 93 | 81 | 99 | 100 | 97 | 100 | 172 | Nasal swab
 [BD Veritor At-Home COVID-19 Test] | Becton Dickinson | 84.6 | 70.3 | 92.8 | 99.8 | 99 | 100 | 597 | Nasal swab
 [Celltrion DiaTrust COVID-19 Ag Home-Test] | Celltrion | 86.7 | 73.8 | 93.7 | 99.8 | 98.7 | 100 | 492 | Nasal swab
@@ -37,6 +37,7 @@ Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specifici
 [^1]: Based on a 95% confidence interval.
 [^2]: Molecular Nucleic Acid Amplification Test.
 [^3]: Includes "low positive" data, which decreases performance of the tests. See IFU for more info.
+[^4]: Also marketed with a mobile application as "on/go™ COVID-19 Antigen Self-Test".
 
 [BinaxNOW COVID-19 Antigen Self-Test]: files/EUA-abbott-bNOWHome-ifu.pdf
 [CareStart COVID-19 Antigen Home Test]: files/EUA-accessbio-Aghome-ifu.pdf
