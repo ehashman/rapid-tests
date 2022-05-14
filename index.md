@@ -8,6 +8,9 @@ I wanted to compare the accuracy of the various home [rapid antigen tests availa
 
 Data fetched on Mon. Jan. 17, 2022. [(Download it as a CSV)](files/RAT_data.csv)
 
+Added Fri. May 13, 2022:
+- Maxim Biomedical
+
 Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specificity (NPA) | Low NPA[^1] | High NPA[^1] | Total Samples | Type
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 [BinaxNOW COVID-19 Antigen Self-Test] | Abbott | 84.6 | 76.8 | 90.6 | 98.5 | 96.6 | 99.5 | 460 | Nasal swab
@@ -18,6 +21,7 @@ Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specifici
 [Ellume COVID-19 Home Test] | Ellume | 95 | 82 | 99 | 97 | 93 | 99 | 198 | Nasal swab
 [iHealth COVID-19 Antigen Rapid Test] | iHealth Labs | 94.3 | 81.4 | 98.4 | 98.1 | 93.3 | 99.5 | 139 | Nasal swab
 [SCoV-2 Ag Detect Rapid Self-Test] | InBios | 85.71 | 70.62 | 93.74 | 100 | 98.3 | 100 | 257 | Nasal swab
+[MaximBio ClearDetect COVID-19 Antigen Home Test] | Maxim Biomedical | 86.9 | 76.2 | 93.2 | 98.9 | 97.1 | 99.6 | 412 | Nasal swab
 [InteliSwab COVID-19 Rapid Test] | OraSure | 84 | 71 | 92 | 98 | 93 | 99 | 146 | Nasal swab
 [QuickVue At-Home OTC COVID-19 Test] | Quidel | 83.5 | 74.9 | 89.6 | 99.2 | 97.2 | 99.8 | 350 | Nasal swab
 [COVID-19 At-Home Test] | SD Biosensor | 95.3 | 84.5 | 98.7 | 100 | 95.7 | 100 | 128 | Nasal swab
@@ -34,6 +38,7 @@ Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specifici
 [Celltrion DiaTrust COVID-19 Ag Home-Test]: files/EUA-Celltrion-AgHomeTest-ifu.pdf
 [Ellume COVID-19 Home Test]: files/EUA-Ellume-HomeAg-ifu.pdf
 [iHealth COVID-19 Antigen Rapid Test]: files/EUA-iHealth-RapidTestAg-ifu.pdf
+[MaximBio ClearDetect COVID-19 Antigen Home Test]: files/EUA-Maximbio-clear-ifu.pdf
 [SCoV-2 Ag Detect Rapid Self-Test]: files/EUA-InBios-DetectAgOTC-ifu.pdf
 [InteliSwab COVID-19 Rapid Test]: files/EUA-Orasure-InteliswabOTC-ifu.pdf
 [QuickVue At-Home OTC COVID-19 Test]: files/EUA-QuickVue-OTC-ifu_0.pdf
