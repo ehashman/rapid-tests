@@ -8,7 +8,7 @@ I wanted to compare the accuracy of the various home [rapid antigen tests availa
 
 Data fetched on Mon. Jan. 17, 2022. [(Download it as a CSV)](files/RAT_data.csv)
 
-Added Fri. May 13, 2022:
+Data from [Thu. May 12, 2022](https://web.archive.org/web/20220512201429/https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/in-vitro-diagnostics-euas-antigen-diagnostic-tests-sars-cov-2):
 - Maxim Biomedical
 
 Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specificity (NPA) | Low NPA[^1] | High NPA[^1] | Total Samples | Type
