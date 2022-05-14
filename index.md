@@ -11,6 +11,7 @@ Data fetched on Mon. Jan. 17, 2022. [(Download it as a CSV)](files/RAT_data.csv)
 Data from [Thu. May 12, 2022](https://web.archive.org/web/20220512201429/https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/in-vitro-diagnostics-euas-antigen-diagnostic-tests-sars-cov-2):
 - Maxim Biomedical
 - OSANG
+- PHASE Scientific
 - Xiamen Boson Biotech
 
 Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specificity (NPA) | Low NPA[^1] | High NPA[^1] | Total Samples | Type
@@ -26,6 +27,7 @@ Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specifici
 [MaximBio ClearDetect COVID-19 Antigen Home Test] | Maxim Biomedical | 86.9 | 76.2 | 93.2 | 98.9 | 97.1 | 99.6 | 412 | Nasal swab
 [InteliSwab COVID-19 Rapid Test] | OraSure | 84 | 71 | 92 | 98 | 93 | 99 | 146 | Nasal swab
 [OHC COVID-19 Antigen Self Test] | OSANG | 64.2[^3] | 55.3 | 72.2 | 98.6 | 94.9 | 99.6 | 259 | Nasal swab
+[INDICAID COVID-19 Rapid Antigen At-Home Test] | PHASE Scientific | 81.7 | 71.6 | 89.4 | 99.4 | 96.6 | 100 | 242 | Nasal swab
 [QuickVue At-Home OTC COVID-19 Test] | Quidel | 83.5 | 74.9 | 89.6 | 99.2 | 97.2 | 99.8 | 350 | Nasal swab
 [COVID-19 At-Home Test] | SD Biosensor | 95.3 | 84.5 | 98.7 | 100 | 95.7 | 100 | 128 | Nasal swab
 [CLINITEST Rapid COVID-19 Antigen Self-Test] | Siemens | 86.5 | 79.6 | 91.3 | 99.3 | 95.9 | 100 | 268 | Nasal swab
@@ -47,6 +49,7 @@ Name | Manufacturer | Sensitivity (PPA) | Low PPA[^1] | High PPA[^1] | Specifici
 [SCoV-2 Ag Detect Rapid Self-Test]: files/EUA-InBios-DetectAgOTC-ifu.pdf
 [InteliSwab COVID-19 Rapid Test]: files/EUA-Orasure-InteliswabOTC-ifu.pdf
 [OHC COVID-19 Antigen Self Test]: files/EUA-OSANG-OHCAgtest-ifu.pdf
+[INDICAID COVID-19 Rapid Antigen At-Home Test]: files/EUA-PHASE-OTCAg-ifu.pdf
 [QuickVue At-Home OTC COVID-19 Test]: files/EUA-QuickVue-OTC-ifu_0.pdf
 [COVID-19 At-Home Test]: files/EUA-SDBio-AtHome-ifu.pdf
 [CLINITEST Rapid COVID-19 Antigen Self-Test]: files/EUA-Siemens-CliniTestAg-ifu.pdf
